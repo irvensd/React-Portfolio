@@ -6,30 +6,28 @@ import logo from '../assets/logo.png';
 const Navigation = () => {
   return (
     <div>
-        <Navbar bg="light" expand="lg">
+        <Navbar bg="dark" expand="lg">
   <Container>
   <Navbar.Brand>
+  < LinkContainer to="/about">
      <img src={logo} style={{width:50, height: 50}} />
+     </LinkContainer>
       </Navbar.Brand>
-    <Navbar.Brand href="#home">Irvens Portfolio</Navbar.Brand>
+    <Navbar.Brand className="text-light" href="/about">Irvens Portfolio</Navbar.Brand>
     <Navbar.Toggle aria-controls="basic-navbar-nav" />
     <Navbar.Collapse id="basic-navbar-nav">
       <Nav className="ms-auto">
-
-     <LinkContainer to="/">
-     <Nav.Link >Home</Nav.Link>
-     </LinkContainer>
      < LinkContainer to="/about">
-     <Nav.Link >About Me </Nav.Link>
+     <Nav.Link className="text-light">About Me </Nav.Link>
      </LinkContainer>
      < LinkContainer to="/portfolio">
-     <Nav.Link >Portfolio </Nav.Link>
+     <Nav.Link className="text-light">Portfolio </Nav.Link>
      </LinkContainer>
      < LinkContainer to="/resume">
-     <Nav.Link >Resume </Nav.Link>
+     <Nav.Link className="text-light">Resume </Nav.Link>
      </LinkContainer>
      < LinkContainer to="/contact">
-     <Nav.Link >Contact </Nav.Link>
+     <Nav.Link className="text-light">Contact </Nav.Link>
      </LinkContainer>
       </Nav>
     </Navbar.Collapse>
