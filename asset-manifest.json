@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/irvens-portfolio/static/css/main.2a79c4c1.css",
+    "main.js": "/irvens-portfolio/static/js/main.4aa84f61.js",
+    "static/js/787.e0ec8692.chunk.js": "/irvens-portfolio/static/js/787.e0ec8692.chunk.js",
+    "static/media/header.jpg": "/irvens-portfolio/static/media/header.bea7e989bd8fda172640.jpg",
+    "static/media/run-buddy.jpg": "/irvens-portfolio/static/media/run-buddy.897479d24864fb380694.jpg",
+    "static/media/irvensdupuyresume.pdf": "/irvens-portfolio/static/media/irvensdupuyresume.b1e85e3da05ebdc069e9.pdf",
+    "static/media/personalinfolocker.jpg": "/irvens-portfolio/static/media/personalinfolocker.97fb0ceb2839ecb087bc.jpg",
+    "static/media/weather-dashboard.jpg": "/irvens-portfolio/static/media/weather-dashboard.539e97ec7ceb82d8c35f.jpg",
+    "static/media/git-it-done.jpg": "/irvens-portfolio/static/media/git-it-done.a11e6b86603cd3240136.jpg",
+    "static/media/trax.jpg": "/irvens-portfolio/static/media/trax.a7733cd7dae52ae295bb.jpg",
+    "static/media/taskmaster-pro.jpg": "/irvens-portfolio/static/media/taskmaster-pro.51df4b7f3a2d83b389e2.jpg",
+    "static/media/password-generator.jpg": "/irvens-portfolio/static/media/password-generator.dce64c667b3eb93c54d5.jpg",
+    "static/media/work-day-scheduler.jpg": "/irvens-portfolio/static/media/work-day-scheduler.34f26eb6e2b488910e40.jpg",
+    "index.html": "/irvens-portfolio/index.html",
+    "main.2a79c4c1.css.map": "/irvens-portfolio/static/css/main.2a79c4c1.css.map",
+    "main.4aa84f61.js.map": "/irvens-portfolio/static/js/main.4aa84f61.js.map",
+    "787.e0ec8692.chunk.js.map": "/irvens-portfolio/static/js/787.e0ec8692.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a79c4c1.css",
+    "static/js/main.4aa84f61.js"
+  ]
+}
